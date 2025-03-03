@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=monospace&duration=1240&pause=2800&color=ffff&center=true&width=600&lines=Software%20Enginering%20And%20security%20engineer;I+Love+Security+:%3E">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=monospace&duration=1240&pause=2800&color=ffff&center=true&width=600&lines=Software%20Enginering%20And%20Security%20Engineer;I+Love+Virtual+:%3E">
 </div>
 
 <div align="center">
