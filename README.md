@@ -14,6 +14,7 @@
 </div>
 
 <div align="center">
+  <a href="https://github.com/JamesKurayami" target="_blank">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   <a href="https://t.me/D4RKD3MON" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
