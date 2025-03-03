@@ -31,7 +31,7 @@
     <div>I'm not responsible for what you guys do using my tools!</div>
     <b>I Hope You Enjoy My Tools</b>
     <br>
-    <b>My Telegram Channel : https://t.me/madexploits</b>
+    <b>My Telegram Channel : https://t.me/D4RKD3MON</b>
   </samp>
 </div>
 
@@ -64,7 +64,7 @@
 
 <div align="center">
   <samp><h1>Support me: </h1></samp>
-  <a href="https://ko-fi.com/yourusername" target="_blank">
+  <a href="https://ko-fi.com/jameskurayami" target="_blank">
     <img src="https://img.shields.io/badge/Support%20me%20on-Ko%20Fi-29abe0?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-Fi" />
   </a>
 </div>
